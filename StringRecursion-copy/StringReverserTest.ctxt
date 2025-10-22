@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StringReverserTest
+comment0.text=\r\n\ The\ test\ class\ StringReverserTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testHello()
+comment2.params=
+comment2.target=void\ testAzariasProgramming()
+comment3.params=
+comment3.target=void\ testNumbers()
+comment4.params=
+comment4.target=void\ testEmpty()
+comment5.params=
+comment5.target=void\ testNull()
+comment6.params=
+comment6.target=void\ testLetter()
+numComments=7
